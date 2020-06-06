@@ -462,7 +462,7 @@
 			<key>ConsoleAttributes</key>
 			<integer>0</integer>
 			<key>HibernateMode</key>
-			<string>None</string>
+			<string>Auto</string>
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>HideSelf</key>
@@ -474,11 +474,11 @@
 			<key>PickerMode</key>
 			<string>Builtin</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
-			<key>ShowPicker</key>
 			<true/>
+			<key>ShowPicker</key>
+			<false/>
 			<key>TakeoffDelay</key>
-			<integer>0</integer>
+			<integer>5</integer>
 			<key>Timeout</key>
 			<integer>5</integer>
 		</dict>
@@ -660,7 +660,7 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-AA95B1DDAB278B95</string>
+			<string>Mac-B809C3757DA9BB8D</string>
 			<key>BoardRevision</key>
 			<data></data>
 			<key>DevicePathsSupported</key>
@@ -680,28 +680,28 @@
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DHCYBJV3Q</string>
+			<string>C02S5014GG7L</string>
 			<key>SystemUUID</key>
-			<string>CB831547-17F2-4F69-9B63-561956DEE3B3</string>
+			<string>F012587B-4216-48F6-AEF7-D5F2BC96127B</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02040500QXLNV98C</string>
+			<string>C02631130QXGPF7JC</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DHCYBJV3Q</string>
+			<string>C02S5014GG7L</string>
 			<key>SystemUUID</key>
-			<string>CB831547-17F2-4F69-9B63-561956DEE3B3</string>
+			<string>F012587B-4216-48F6-AEF7-D5F2BC96127B</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
